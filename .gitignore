@@ -1,0 +1,5 @@
+drive/
+*.zip
+*.gslides
+*.gsheet
+*.ipynb_checkpoints
